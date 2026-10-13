@@ -1,0 +1,11 @@
+{
+    "packs":  [
+                  {
+                      "id":  "steam_update_su42_pre_release",
+                      "name":  "Up to Date",
+                      "description":  "You are up to date!\n\nGame Version: SU42 Pre-Release",
+                      "downloadURI":  "",
+                      "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-update-packages_26.3/no-update.png"
+                  }
+              ]
+}
