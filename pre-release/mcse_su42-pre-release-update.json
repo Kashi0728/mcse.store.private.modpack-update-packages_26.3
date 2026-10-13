@@ -1,7 +1,7 @@
 {
     "packs":  [
                   {
-                      "id":  "steam_update_su42_pre_release",
+                      "id":  "su42_pre_release",
                       "name":  "Up to Date",
                       "description":  "You are up to date!\n\nGame Version: SU42 Pre-Release",
                       "downloadURI":  "",
