@@ -1,0 +1,11 @@
+{
+    "packs":  [
+                  {
+                      "id":  "steam_update_test_beta",
+                      "name":  "Up to Date",
+                      "description":  "You are up to date!\n\nGame Version: 26.3 Beta",
+                      "downloadURI":  "",
+                      "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-update-packages_26.3/no-update.png"
+                  }
+              ]
+}
