@@ -1,0 +1,11 @@
+{
+    "packs":  [
+                  {
+                      "id":  "su41_post_patch1",
+                      "name":  "Up to Date",
+                      "description":  "You are up to date!\n\nGame Version: SU41",
+                      "downloadURI":  "",
+                      "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-update-packages_26.3/no-update.png"
+                  }
+              ]
+}
